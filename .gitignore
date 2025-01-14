@@ -1,0 +1,48 @@
+# IntelliJ IDEA
+*.iml
+*.idea/
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+*.gradle
+*.gradle.kts
+.gradle-user/
+
+# Maven
+target/
+*.war
+
+# Eclipse
+*.log
+.settings/
+*.classpath
+*.project
+
+# Otros
+out/
+*.swp
+*.swo
+*.bak
+*.class
+*.bak
+*.tar.gz
+*.zip
+*.jar
+
+# Compilación y ejecutables
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Dependency directories
+**/target/
+**/node_modules/
+**/.vscode/
+**/.idea/
+**/build/
+**/out/
